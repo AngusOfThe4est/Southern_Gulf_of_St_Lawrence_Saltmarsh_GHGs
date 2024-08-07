@@ -1,0 +1,28 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: SANDI_FluxRate_Output_20240404
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Angus
+    family-names: Kennedy
+    email: anguskennedy24@gmail.com
+    affiliation: StFX University
+repository-code: >-
+  https://github.com/AngusOfThe4est/Southern_Gulf_of_St_Lawrence_Saltmarsh_GHGs
+abstract: >-
+  Scripts used to survey the CO2 and CH4 fluxes from S.
+  alterniflorus and dead zones in five southern Gulf of St.
+  Lawrence Saltmarshes.
+keywords:
+  - saltmarsh
+  - carbon-dioxide
+  - methane
+  - greenhouse-gasses
+  - emissions
+  - wetlands
+date-released: '2024-08-07'
